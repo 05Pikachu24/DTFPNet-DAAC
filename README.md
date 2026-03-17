@@ -9,7 +9,7 @@
 }
 
 # 20260317 
-The core contributions of this paper are twofold: 1) We validate the effectiveness of employing parallel time-domain and frequency-domain feature extractors (a more comprehensive analysis is provided in another of our works, which is currently under review). 2) We propose the use of DCT and GRU to capture non-linear dependencies among frequency components. Coincidentally, we recently noticed a similar concurrent study: CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling. We welcome readers to compare these two approaches.
+The core contributions of this paper are twofold: 1) We validate the effectiveness of employing parallel time-domain and frequency-domain feature extractors (a more comprehensive analysis is provided in another of our works, which is currently under review). 2) We propose the use of DCT and GRU to capture non-linear dependencies among frequency components. Coincidentally, we recently noticed a similar concurrent study: [CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling](https://openreview.net/forum?id=hHYjiOJFum). We welcome readers to compare these two approaches.
 
 :sparkling_heart: If our proposed DTFPNet inspires your research, please consider citing our work.
 
