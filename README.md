@@ -1,12 +1,18 @@
 # DTFPNet: Temporal and Frequency Dynamic Graph Neural Network for Time Series Classification
-@article{yu2025dtfpnet,
-  title={DTFPNet: Temporal and Frequency Dynamic Graph Neural Network for Time Series Classification},
-  author={Yu, Wuqing and Fu, Bowen and Li, Zhan and Zhou, Jian and Wang, Junhao and Zhang, Jiacai},
-  journal={Pattern Recognition},
-  pages={112588},
-  year={2025},
-  publisher={Elsevier}
+
+```bibtex
+@article{YU2026112588,
+title = {DTFPNet: Temporal and frequency dynamic graph neural network for time series classification},
+author = {Wuqing Yu and Bowen Fu and Zhan Li and Jian Zhou and Junhao Wang and Jiacai Zhang},
+journal = {Pattern Recognition},
+volume = {172},
+pages = {112588},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.112588},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320325012518}
 }
+```
 
 
 20260317: The core contributions of this paper are twofold: 1) We validate the effectiveness of employing parallel time-domain and frequency-domain feature extractors (a more comprehensive analysis is provided in another of our works, which is currently under review). 2) We propose the use of DCT and GRU to capture non-linear dependencies among frequency components. Coincidentally, we recently noticed a similar concurrent study: [CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling](https://openreview.net/forum?id=hHYjiOJFum). We welcome readers to compare these two approaches.
